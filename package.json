@@ -1,6 +1,6 @@
 {
   "name": "amdibell",
-  "version": "0.16.5",
+  "version": "1.0.1",
   "description": "Amdibell project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./Amdibell/bot.js",
   "scripts": {
